@@ -66,4 +66,3 @@ final class ImageStore {
         return images.index(forKey: name)!
     }
 }
-
